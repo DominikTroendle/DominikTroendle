@@ -1,7 +1,7 @@
-<h1>Hey there, I am Dominik</h1>
+<h1>Hey there, I am Dominik 🤝</h1>
 
-Ich bin Softwareentwickler aus Munich.  
-Meine Projekte: [dominik-troendle.de](https://dominik-troendle.de)
+🏘 I'm a software developer from Munich.  
+👉 Check my projects here: [www.dominik-troendle.de](https://dominik-troendle.de)
 
 <div><img align="left" width="50%" src="assets/code-with.svg" alt="I code with" /><img align="right" width="50%" src="https://raw.githubusercontent.com/DominikTroendle/DominikTroendle/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Most used languages" /></div>
 <br clear="all" />
