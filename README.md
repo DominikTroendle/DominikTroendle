@@ -59,10 +59,6 @@ Fun fact: ...
 <img src="https://img.shields.io/badge/Discord-@petapetarrrr-3dcfb6?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
 <a href="LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-3dcfb6?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
 
-## Contributions
-
-<img src="https://ghchart.rshah.org/3dcfb6/DominikTroendle" alt="GitHub contributions" width="100%" />
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=3dcfb6" alt="footer" />
 </div>
