@@ -9,8 +9,8 @@
 
 <img src="assets/about-me.svg" width="100%" alt="About me" />
 
-Creating bugs since 2024<br />
-I'm currently learning Backend Development<br />
+🕷 Creating bugs since 2024<br />
+🔭 I'm currently learning Backend Development<br />
 
 <br />
 
