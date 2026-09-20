@@ -4,7 +4,7 @@
 
 <br />
 
-<div><img align="left" width="46%" src="assets/code-with.svg" alt="I code with" /><img align="right" width="46%" src="https://raw.githubusercontent.com/DominikTroendle/DominikTroendle/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Most used languages" /></div>
+<div><img align="left" width="46%" src="assets/code-with.svg" alt="I code with" /><img align="right" width="46%" src="https://raw.githubusercontent.com/DominikTroendle/DominikTroendle/languages-output/languages.svg" alt="Most used languages" /></div>
 <br clear="all" />
 
 <br />
