@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="112" viewBox="0 0 440 112" role="img" aria-label="Education: Developer Akademie, Udemy"><title>Education: Developer Akademie, Udemy</title><style>
-  .h{font:700 28px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc}
+  .h{font:700 26px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc}
   .l{stroke:#3dcfb6;stroke-width:1.5}
   @media (prefers-color-scheme: light){.h{fill:#1f2328}}
 </style><text class="h" x="0" y="30">Education</text><line class="l" x1="0" y1="44" x2="440" y2="44"/><g transform="translate(0,62)"><rect width="210" height="28" rx="3" fill="#FF5A4B"/>
