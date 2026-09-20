@@ -17,5 +17,5 @@ Fun fact: ...
 
 <br />
 
-<div><img align="left" width="50%" src="assets/education.svg" alt="Education: Developer Akademie, Udemy" /><img src="assets/contact-heading.svg" width="48%" alt="How to reach me" /><br /><a href="mailto:domi.troendle@gmail.com"><img src="assets/gmail.svg" height="40" alt="Gmail" /></a> <img src="assets/discord.svg" height="40" alt="Discord: petapetarrrr" title="Discord: @petapetarrrr" /> <a href="LINKEDIN_LINK"><img src="assets/linkedin.svg" height="40" alt="LinkedIn" /></a></div>
+<div><img align="left" width="50%" src="assets/education.svg" alt="Education: Developer Akademie, Udemy" /><img src="assets/contact-heading.svg" width="48%" alt="How to reach me" /><br /><a href="mailto:domi.troendle@gmail.com"><img src="assets/gmail.svg" height="40" alt="Gmail" /></a> <img src="assets/discord.svg" height="40" alt="Discord: petapetarrrr" title="Discord: @petapetarrrr" /> <a href="[LINKEDIN_LINK](https://www.linkedin.com/in/dominik-tröndle-52674a3b2/)"><img src="assets/linkedin.svg" height="40" alt="LinkedIn" /></a></div>
 <br clear="all" />
