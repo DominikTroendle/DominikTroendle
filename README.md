@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=true&color=3dcfb6" alt="header" />
-</div>
-
 <h1>Hey there, I am Dominik</h1>
 
 Ich bin Softwareentwickler aus Munich.  
@@ -58,7 +54,3 @@ Fun fact: ...
 <a href="mailto:domi.troendle@gmail.com"><img src="https://img.shields.io/badge/domi.troendle@gmail.com-3dcfb6?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Discord-@petapetarrrr-3dcfb6?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
 <a href="LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-3dcfb6?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=3dcfb6" alt="footer" />
-</div>
