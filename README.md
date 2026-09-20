@@ -16,5 +16,4 @@
 
 <br />
 
-<div><img align="left" width="46%" src="assets/education.svg" alt="Education: Developer Akademie, Udemy" /><img src="assets/contact-heading.svg" width="49%" alt="How to reach me" /><br /><a href="mailto:domi.troendle@gmail.com"><img src="assets/gmail.svg" alt="Gmail" /></a> <img src="assets/discord.svg" alt="Discord: petapetarrrr" title="Discord: @petapetarrrr" /> <a href="https://www.linkedin.com/in/dominik-tröndle-52674a3b2/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a></div>
-<br clear="all" />
+<div><img align="top" width="46%" src="assets/education-heading.svg" alt="Education" /><img align="top" width="49%" src="assets/contact-heading.svg" alt="How to reach me" /><a href="https://developerakademie.com/"><img align="top" width="23.2%" src="assets/badge-developer-akademie.svg" alt="Developer Akademie" /></a><a href="https://www.udemy.com/"><img align="top" width="22.8%" src="assets/badge-udemy.svg" alt="Udemy" /></a><a href="mailto:domi.troendle@gmail.com"><img align="top" src="assets/gmail.svg" alt="Gmail" /></a><a href="https://discord.com/users/337190378933583872"><img align="top" src="assets/discord.svg" alt="Discord: petapetarrrr" /></a><a href="https://www.linkedin.com/in/dominik-tröndle-52674a3b2/"><img align="top" src="assets/linkedin.svg" alt="LinkedIn" /></a></div>
