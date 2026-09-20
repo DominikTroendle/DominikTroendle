@@ -1,0 +1,39 @@
+name: Update languages card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/languages.py"
+      - ".github/workflows/languages.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Karte erzeugen
+        env:
+          GH_USER: DominikTroendle
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT: ${{ runner.temp }}/out/languages.svg
+        run: |
+          mkdir -p "${{ runner.temp }}/out"
+          python3 .github/scripts/languages.py
+
+      - name: In Branch languages-output veroeffentlichen
+        run: |
+          cd "${{ runner.temp }}/out"
+          git init -b languages-output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git commit -m "Update languages card"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" languages-output
