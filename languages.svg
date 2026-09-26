@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="Most used languages">
+<title>Most used languages</title>
+<style>
+  .bg{fill:#0d1117} .t{font:400 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+  .h{font:700 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#3dcfb6}
+  @media (prefers-color-scheme: light){.bg{fill:#ffffff} .t{fill:#1f2328}}
+</style>
+<clipPath id="bar"><rect x="20" y="50" width="400" height="8" rx="4"/></clipPath>
+<rect class="bg" x="1" y="1" width="438" height="148" rx="6" stroke="#3dcfb6" stroke-width="1.5"/>
+<text class="h" x="20" y="32">Most Used Languages</text>
+<g clip-path="url(#bar)"><rect x="20.00" y="50" width="118.08" height="8" fill="#3178c6"/><rect x="138.08" y="50" width="115.67" height="8" fill="#c6538c"/><rect x="253.75" y="50" width="80.33" height="8" fill="#f1e05a"/><rect x="334.08" y="50" width="63.65" height="8" fill="#e34c26"/><rect x="397.73" y="50" width="22.27" height="8" fill="#663399"/></g>
+<circle cx="25" cy="84" r="5" fill="#3178c6"/><text class="t" x="38" y="88">TypeScript 29.5%</text><circle cx="235" cy="84" r="5" fill="#c6538c"/><text class="t" x="248" y="88">SCSS 28.9%</text><circle cx="25" cy="110" r="5" fill="#f1e05a"/><text class="t" x="38" y="114">JavaScript 20.1%</text><circle cx="235" cy="110" r="5" fill="#e34c26"/><text class="t" x="248" y="114">HTML 15.9%</text><circle cx="25" cy="136" r="5" fill="#663399"/><text class="t" x="38" y="140">CSS 5.6%</text>
+</svg>
