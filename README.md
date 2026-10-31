@@ -3,13 +3,12 @@
 <h2>🏘 I'm a software developer from Munich.<br />👉 Check my projects: <a href="https://dominik-troendle.de">dominik-troendle.de</a></h2
 
 <br />
+<br />
 
 <h2>About me</h2>
 
 🕷 Creating bugs since 2024<br />
 🔭 I'm currently learning Backend Development<br />
-
-<br />
 
 <div>
   <div>
