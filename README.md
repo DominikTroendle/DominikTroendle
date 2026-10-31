@@ -13,24 +13,7 @@
 
 <div><img align="top" width="46%" src="assets/education-heading.svg" alt="Education" /><img align="top" width="49%" src="assets/contact-heading.svg" alt="How to reach me" /><a href="https://developerakademie.com/"><img align="top" width="23.2%" src="assets/badge-developer-akademie.svg" alt="Developer Akademie" /></a><a href="https://www.udemy.com/"><img align="top" width="22.8%" src="assets/badge-udemy.svg" alt="Udemy" /></a><a href="mailto:domi.troendle@gmail.com"><img align="top" src="assets/gmail.svg" alt="Gmail" /></a><a href="https://discord.com/users/337190378933583872"><img align="top" src="assets/discord.svg" alt="Discord: petapetarrrr" /></a><a href="https://www.linkedin.com/in/dominik-tröndle-52674a3b2/"><img align="top" src="assets/linkedin.svg" alt="LinkedIn" /></a></div>
 
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<h1>Dominik Tröndle</h1>
-<h2>Frontend engineer</h2>
-<p>Learning Full Stack Development at Developer Akademie GmbH</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Munich, Germany</sub></p>
-<p><a href="https://github.com/dominiktroendle">GitHub</a> &nbsp;·&nbsp; <a href="https://dominik-troendle.de">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/187118235?u=d54f451d1f5387c43ef19c416cd2e117a022f37e&amp;v=4" width="180" alt="Dominik Tröndle GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+<br />
 
 <h2>Selected work</h2>
 
