@@ -36,8 +36,6 @@
 </picture>
 </p>
 
-<br />
-
 <h2>Selected work</h2>
 
 <picture>
