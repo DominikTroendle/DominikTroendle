@@ -9,18 +9,20 @@
 🕷 Creating bugs since 2024<br />
 🔭 I'm currently learning Backend Development<br />
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h2>Education</h2>
       <a href="https://developerakademie.com/"><img align="top" width="47%" src="assets/badge-developer-akademie.svg" alt="Developer Akademie" /></a>
       <a href="https://www.udemy.com/"><img align="top" width="46%" src="assets/badge-udemy.svg" alt="Udemy" /></a>
+      <br><img src="assets/spacer.svg" width="1000" height="1" alt="" />
     </td>
     <td width="50%" valign="top">
       <h2>How to reach me</h2>
       <a href="mailto:domi.troendle@gmail.com"><img align="top" src="assets/gmail.svg" alt="Gmail" /></a>
       <a href="https://discord.com/users/337190378933583872"><img align="top" src="assets/discord.svg" alt="Discord: petapetarrrr" /></a>
       <a href="https://www.linkedin.com/in/dominik-tröndle-52674a3b2/"><img align="top" src="assets/linkedin.svg" alt="LinkedIn" /></a>
+      <br><img src="assets/spacer.svg" width="1000" height="1" alt="" />
     </td>
   </tr>
 </table>
