@@ -32,21 +32,3 @@
   <img src="https://www.gitskins.com/api/section/stack?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Dominik Tröndle technology stack" />
 </picture>
 </p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Dominik Tröndle contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/dominiktroendle">GitHub</a><br /><a href="https://dominik-troendle.de">Website</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Dominik Tröndle · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
