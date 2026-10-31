@@ -3,9 +3,8 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · dominiktroendle</sub></p>
 <h1>Dominik Tröndle</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Frontend engineer</h2>
 <p>Learning Full Stack Development at Developer Akademie GmbH</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Munich, Germany</sub></p>
@@ -17,36 +16,6 @@
 </tr>
 </table>
 </div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · SCSS · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>855 contributions · 171 active days</p></td>
-</tr>
-</table>
-
-<p><sub>Learning Full Stack Development at Developer Akademie GmbH</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>855</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Dominik Tröndle GitHub proof metrics" />
-</picture>
-</p>
 
 <h2>Selected work</h2>
 
@@ -83,18 +52,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Dominik Tröndle technology stack" />
 </picture>
 </p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>30% of public code</sub></td>
-<td width="20%" align="center"><strong>SCSS</strong><br /><sub>29% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>20% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>5% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
 
 <p align="center">
 <picture>
