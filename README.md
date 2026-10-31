@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/about-me.svg" width="100%" alt="About me" />
+<h2>About me</h2>
 
 🕷 Creating bugs since 2024<br />
 🔭 I'm currently learning Backend Development<br />
