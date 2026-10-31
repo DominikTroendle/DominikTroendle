@@ -27,8 +27,6 @@
   </tr>
 </table>
 
-<br />
-
 <h2>Technical toolkit</h2>
 
 <p align="center">
