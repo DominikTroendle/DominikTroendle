@@ -17,30 +17,12 @@
 
 <h2>Selected work</h2>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&repos=dominiktroendle%2FPortfolio%2Cdominiktroendle%2FSuper-Candy-Penguin%2Cdominiktroendle%2FJoin%2Cdominiktroendle%2FPoll-App&v=recruiter-projects-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=dominiktroendle&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187118235%3Fu%3Dd54f451d1f5387c43ef19c416cd2e117a022f37e%26v%3D4&repos=dominiktroendle%2FPortfolio%2Cdominiktroendle%2FSuper-Candy-Penguin%2Cdominiktroendle%2FJoin%2Cdominiktroendle%2FPoll-App&v=recruiter-projects-1&mode=dark" width="100%" alt="Dominik Tröndle selected projects" />
 </picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/DominikTroendle/Portfolio">Portfolio</a></h3>
-<p>Developer portfolio showing a selection of self-built projects with live-demos</p>
-<p><sub>SCSS · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/DominikTroendle/Portfolio">Read the repository →</a></p>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/DominikTroendle/Super-Candy-Penguin">Super-Candy-Penguin</a></h3><p>Jump&amp;Run game based on an object-oriented approach. Help Pingu to find coins and candys to fight against the cyclops</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/DominikTroendle/Join">Join</a></h3><p>Task manager inspired by the Kanban System. Create and organize tasks using drag and drop functions, assign users and categories</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/DominikTroendle/Poll-App">Poll-App</a></h3><p>Survey app for creating and answering polls. Browse active and past surveys, add custom questions, and follow live results</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<br />
 
 <h2>Technical toolkit</h2>
 
